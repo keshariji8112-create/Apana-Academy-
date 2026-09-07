@@ -1,0 +1,282 @@
+{
+ "apps": [
+    { 
+      "id": "vidya",
+      "name": "Vidyagram",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjx6hhiJFSC1JgK4K0UUTKPKoGrbxq3-AAbBzbc_IEHg&s",
+      "study_link": "https://studyapkmod-vidyagramx.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+  { 
+      "id": "gs",
+      "name": "GS VISION ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgEAo3vyQWDDpBvmN6yE0nhknXGEqNbA8uZ_DcetKPg&s",
+      "study_link": "https://nexthope.pages.dev/gsvision/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+
+  { 
+      "id": "gs",
+      "name": "TARGET BOARD",
+      "image": "https://play-lh.googleusercontent.com/PjG-ouz0Z1S4aJyA2ZsjVaLLd8h1WgR8kzvP4ff0zP2Z7yvjDKy60K2R3OmGbJwaJRruf8aPf7aoGe8nM-EIcQ",
+      "study_link": "https://studybeepro.site/tb/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+  { 
+      "id": "md",
+      "name": "MD CLASS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgEAo3vyQWDDpBvmN6yE0nhknXGEqNbA8uZ_DcetKPg&s",
+      "study_link": "https://mdclassesx.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+   { 
+      "id": "kgs",
+      "name": "Future Kul ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6uvI2uen5h15ACS3VBWWLbR5x-oZ1oh9G8m6f1dls3FGZlSgrlXWuI4&s=10",
+      "study_link": "https://nexthope.pages.dev/futurekul/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+
+      {
+      "id": "kgs",
+      "name": "Sachin Academy ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ARvGiafm6kCYqTXVtdTPfEMJqZoe0tUcCavl6NCXh21qPy54xIeM7yM&s=10",
+      "study_link": "https://sachinclassex1.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "Not For Sale",
+      "color": "#6366F1"
+    },
+  {
+      "id": "Gyan",
+      "name": "Gyanbindu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFvhxybNgyZB2ctiSjQkoDvGk9KjyK-tG34NGXWwaRA&s=10",
+      "study_link": "https://gyanbindu.codxraj.site",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "New",
+      "color": "#EF4444"
+        },
+  {
+      "id": "kgs",
+      "name": "KHAN GLOBAL STUDIES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
+      "study_link": "https://spidy-kgs.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "Popular",
+      "color": "#6366F1"
+    },
+    {
+      "id": "kgs",
+      "name": "KHAN GLOBAL STUDIES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCiwfy76ica73byqKIURXqN2Zi2h2Sdw0VJooGkXsyg&s",
+      "study_link": "https://kgsfreebatchall.vercel.app/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "Popular",
+      "color": "#6366F1"
+    },
+     {
+      "id": "selectionway",
+      "name": "SELECTION WAY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
+      "study_link": "https://spidyuniverseway.vercel.app/",
+      "download_link": "https://deltastudy.site/selectionway",
+      "tag": "Popular",
+      "color": "#F59E0B"
+    },
+  {
+      "id": "selectionway",
+      "name": "SELECTION WAY TEST SERIES ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquIqVyakcgsPuAsFkSm34nPLKZ_IY2W0-Rj5sd1-T-g&s=10",
+      "study_link": "https://testrankingfree.vercel.app/",
+      "download_link": "https://deltastudy.site/selectionway",
+      "tag": "Popular",
+      "color": "#800013"
+    },
+    {
+      "id": "rwa",
+      "name": "ROJGAR WITH ANKIT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqvsASIxLwsfdqSKs1qm-bUoY0Ko0vLP6rPGzay47DA&s",
+      "study_link": "https://spidyrwa.vercel.app/",
+      "download_link": "https://spidyuniverserwa.vercel.app",
+      "tag": "",
+      "color": "#6366F1"
+    },
+  {
+      "id": "studyiq",
+      "name": "STUDY IQ(NEW BATCHES)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhQ7uIPWu_D8K_xsqsNscViPXM3QiKUAHIXD9Hkontw&s=10",
+      "study_link": "https://sangam.free.nf/studyiq/",
+      "download_link": "http://spidyiq.vercel.app",
+      "tag": "",
+      "color": "#6366F1"
+    },
+     {
+      "id": "studyiq",
+      "name": "STUDY IQ (OLD BATCHES)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhQ7uIPWu_D8K_xsqsNscViPXM3QiKUAHIXD9Hkontw&s=10",
+      "study_link": "http://spidyiq.vercel.app",
+      "download_link": "http://spidyiq.vercel.app",
+      "tag": "",
+      "color": "#6366F1"
+    },
+    {
+      "id": "testbook",
+      "name": "TESTBOOK",
+      "image": "https://play-lh.googleusercontent.com/oZKb4MS_3fA2URqyMW2QvWqm7Bhjikz_L8002o4VLpIfVUmcVXZUa1OI0r5QS_8b3XA=w240-h480-rw",
+      "study_link": "https://testbook.examsaathi.site/",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Test❤‍🔥",
+      "color": "#EF4444"
+        },
+     {
+      "id": "testbook",
+      "name": "TESTBOOK",
+      "image": "https://play-lh.googleusercontent.com/oZKb4MS_3fA2URqyMW2QvWqm7Bhjikz_L8002o4VLpIfVUmcVXZUa1OI0r5QS_8b3XA=w240-h480-rw",
+      "study_link": "https://test.pwthor.live/",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "Test❤‍🔥",
+      "color": "#EF4444"
+        },
+    {
+      "id": "Cds Journey",
+      "name": "Cds Journey ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72szB7OQoXI1HfSnyzGvSmwXk5fNhmbn7V_1dZlZbjA&s=10",
+      "study_link": "https://spidyuniversecds.vercel.app/",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "CDS🇮🇳🚀✈️",
+      "color": "#EF4444"
+        },
+
+      {
+      "id": "pw",
+      "name": "PHYSICS WALLAH",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1plcMrWwVtz1_zK8I6kbPtktbGikeJ55Ukuaad408XQ&s",
+      "study_link": "https://pwthor.live/study/batches",
+      "download_link": "http://Test.deltastudy.site",
+      "tag": "trending ",
+      "color": "#008000"
+    },
+  {
+      "id": "A",
+      "name": "PW PI OTT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWGqw7jtjlOB2XNmmAtUCr_CX2pzTvX_wEo8xKHw96JNoxTzl7g_dT2g&s=10",
+      "study_link": "https://pipro.therankforge.site/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+ {
+      "id": "NT",
+      "name": "Next Topper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IXk64isT48glTv-5DobS3YZdAsGHOQV9J3q8IPy8i4kKhyWAcgRWLAEw&s=10",
+      "study_link": "https://spidytopper.vercel.app/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "Popular",
+      "color": "#008000"
+    },
+   {
+      "id": "NT",
+      "name": "Next Topper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IXk64isT48glTv-5DobS3YZdAsGHOQV9J3q8IPy8i4kKhyWAcgRWLAEw&s=10",
+      "study_link": "https://backbencherz.netlify.app/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "Popular",
+      "color": "#008000"
+    },
+ 
+  {
+      "id": "cW",
+      "name": "CW CTET ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAB_URIwHn37n8wv-FR6lhXAS7clYsz2wD_VbdNlJlGVj6S3KVb1i0cXbi&s=10",
+      "study_link": "https://sangam.free.nf/CW/course_index.html",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+    {
+      "id": "CW",
+      "name": "CAREERWILL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmYE_faasYwfAs0rQKDf4GcuoV7_Ws6ZUqWwmIpuHVSw&s",
+      "study_link": "https://runtkyp.xo.je/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+    {
+      "id": "VA",
+      "name": "VIBRANT ACADEMY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmuYdKB7UQncU20kBaRb77EZ0ud1wr_Eusl-E_NMvDQ&s=10",
+      "study_link": "https://nexthope.pages.dev/vb/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+    {
+      "id": "A",
+      "name": "Mission Jeet",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxqHnOjWBCBOJtXrVn-YnO7pCZktYOINHOxmOFHPcgg&s=10",
+      "study_link": "https://nexthope.pages.dev/mj/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+    {
+      "id": "A",
+      "name": "Topper Wisdom ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9A1gBjbONI4R8THMtzf9RfSwDu-bLSFwuVw&s",
+      "study_link": "https://nexthope.pages.dev/topperswisdom/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+  {
+      "id": "A",
+      "name": "UNACADEMY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMoD260MXEH1aYOimogVz-ZN5bBDHcEJlfXcDX4dbHJg&s=10",
+      "study_link": "https://nexthope.pages.dev/unacademy/",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "New",
+      "color": "#000480"
+    },
+ 
+  {
+      "id": "Tnc",
+      "name": "TNC NURSING ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygquMU-QRwMJ2OI-jVqxFiZmqzt3YfBEc8maP11W5kfMuoqi3Nw3JaXMj&s=10",
+      "study_link": "https://tnc-vedio.onrender.com/",
+      "download_link": "http://Sdvmock.page.gd",
+      "tag": "New",
+      "color": "#EF4444"
+        },
+  { 
+      "id": "gs",
+      "name": "PINNACLE EBOOKS",
+      "image": "https://b3books.in/cdn/shop/collections/favicon.png?v=1758976756",
+      "study_link": "https://nexthope.pages.dev/pinnacle/",
+      "download_link": "https://spidykgs.vercel.app",
+      "tag": "New",
+      "color": "#6366F1"
+    },
+   
+ 
+    {
+      "id": "A",
+      "name": "Coding & Skills ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFcT30jUWxKpkI8NPfMpaW3B6cNPf8ZLy4dRQH2kKU8XrimIrHV_aJbk&s=10",
+      "study_link": "https://gatewayclasses.vercel.app",
+      "download_link": "https://backbencherz.netlify.app/",
+      "tag": "Coding",
+      "color": "#800062"
+    }
+  ]
+}
+
